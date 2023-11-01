@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Creating a new component
 
-Create a new folder under src/components/[new_component] with [new_component].tsx file
+Create a new folder under src/components/`[new_component]/` with `[new_component].tsx` file
 
-Create a story file with [new_component].stories.tsx
+Create a story file with `[new_component].stories.tsx`
 
 ## Available Scripts
 
