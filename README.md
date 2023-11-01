@@ -5,13 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Creating a new component
 
 Create a new folder under src/components/[new_component] with [new_component].tsx file
+
 Create a story file with [new_component].stories.tsx
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn storybook`
+`yarn storybook`
 
 To test the component in Storybook
 
