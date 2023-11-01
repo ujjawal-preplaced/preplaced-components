@@ -21,10 +21,10 @@ Before publishing, make sure to update the name, version, and description fields
 
 Once you have updated the package.json, run the following command to build your library:
 
-### npm run build
+`npm run build`
 
 Finally, publish your library to NPM:
 
-### npm login
+`npm login`
 
-### npm publish
+`npm publish`
